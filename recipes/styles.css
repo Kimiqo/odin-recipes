@@ -1,0 +1,18 @@
+body {
+    background-color: goldenrod;
+    color: black;
+    font-family: Verdana, "Geneva", Tahoma,sans-serif;   
+}
+
+h1 {
+    color: red;
+}
+
+#image {
+    text-align: center;
+}
+
+.content {
+    background-color: white;
+    
+}
