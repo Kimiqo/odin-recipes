@@ -1,8 +1,17 @@
 body {
     background-color: skyblue;
     color: red;
+    text-align: center;
     font-family: Verdana, "Geneva", Tahoma,sans-serif;   
 }
 
+#home-pic {
+    display: inline;
+}
+
+.first {
+    height: 300px;
+    width: auto;
+}
 
 
